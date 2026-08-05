@@ -1,6 +1,6 @@
 <h1 align="center">📊 Super Store Sales Dashboard</h1>
 
-An interactive **Power BI Sales Analytics Dashboard** built to analyze sales performance, profitability, customer segments, shipping methods, and regional trends using the Super Store dataset.
+An interactive **Power BI Sales interactive Dashboard** built to analyze sales performance, profitability, customer segments, shipping methods, and regional trends using the Super Store dataset.
 
 ---
 
