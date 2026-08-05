@@ -6,9 +6,9 @@ An interactive **Power BI Sales Analytics Dashboard** built to analyze sales per
 
 ## 📷 Dashboard Preview
 
-> Replace the image below with your dashboard screenshot.
-
-![Super Store Sales Dashboard](Super-Store-Sales-Dashboard.png)
+<p align="center">
+<img src="Images/Super-Store-Sales-Dashboard.png" width="100%" alt="Employee Attrition Dashboard"/>
+</p>
 
 ---
 
