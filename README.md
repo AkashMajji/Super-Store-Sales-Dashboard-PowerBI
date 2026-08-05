@@ -8,7 +8,7 @@ An interactive **Power BI Sales Analytics Dashboard** built to analyze sales per
 
 > Replace the image below with your dashboard screenshot.
 
-![Super Store Sales Dashboard](Images/Dashboard.png)
+![Super Store Sales Dashboard](Super-Store-Sales-Dashboard.png)
 
 ---
 
@@ -37,12 +37,12 @@ The dashboard was developed to answer the following business questions:
 
 # 📈 Key Performance Indicators (KPIs)
 
-| KPI | Value |
-|------|--------|
-| 📦 Total Orders | 22K |
-| 💰 Total Sales | 1.6M |
-| 📈 Total Profit | 175K |
-| 🚚 Average Ship Days | 4 |
+| KPI                  | Value |
+| -------------------- | ----- |
+| 📦 Total Orders      | 22K   |
+| 💰 Total Sales       | 1.6M  |
+| 📈 Total Profit      | 175K  |
+| 🚚 Average Ship Days | 4     |
 
 ---
 
