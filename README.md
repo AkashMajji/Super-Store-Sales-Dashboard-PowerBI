@@ -100,23 +100,15 @@ The dashboard was developed to answer the following business questions:
 # 📂 Repository Structure
 
 ```
-Super-Store-Sales-Dashboard/
+Super-Store-Sales-Dashboard-Power BI
 │
-├── Dataset/
-│   └── SuperStore.csv
-│
-├── Images/
-│   └── Dashboard.png
-│
-├── PowerBI/
-│   └── Super_Store_Sales_Dashboard.pbix
-│
-├── README.md
+├── Images
+│   └── Super-Store-Sales-Dashboard.png
+├── .gitignore
 ├── LICENSE
-└── .gitignore
+├── README.md
+├── Employee_Attrition_Dashboard.pbix
 ```
-
----
 
 # 📊 Dashboard Components
 
