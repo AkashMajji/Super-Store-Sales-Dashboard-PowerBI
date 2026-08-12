@@ -1,4 +1,4 @@
-<h1 align="center">📊 Super Store Sales Dashboard</h1>
+<h1 align="center">📊 Super Store Sales Dashboar</h1>
 
 An interactive **Power BI Sales Performance Dashboard** built to analyze sales performance, profitability, customer segments, shipping methods, and regional trends using the Super Store dataset.
 
